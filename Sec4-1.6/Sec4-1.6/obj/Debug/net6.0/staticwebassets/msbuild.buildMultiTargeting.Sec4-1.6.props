@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sec4-1.6.props" />
+</Project>
